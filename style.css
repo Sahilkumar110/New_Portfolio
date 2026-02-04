@@ -76,7 +76,7 @@ section{
 	position: relative;
 	height: 100vh;
 	width: 100%;
-	background-image: url(/img.JPG);
+	background-image: url(img.JPG);
 	background-size: cover;
 	background-position: center;
 	display: flex;
@@ -523,3 +523,4 @@ form textarea{
 	}
 
 }
+
